@@ -1,5 +1,7 @@
 # Source Map — Kenny Core Work Principles
 
+Canonical repo: https://github.com/LemonCANDY42/kenny-core-work-principles
+
 Operational rules live in `SKILL.md`. This file explains where the distillation came from and why the final form is so small.
 
 ## Final distillation

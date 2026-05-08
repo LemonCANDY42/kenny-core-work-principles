@@ -76,3 +76,5 @@ Acting before reading. More context after enough context. Confidence without evi
 ## Read more
 
 Read `references/source-map.md` only for provenance or comparison. Read the local `WORK_PRINCIPLES.md` only when updating the constitution or needing the long-form rationale.
+
+<!-- repo: https://github.com/LemonCANDY42/kenny-core-work-principles -->
