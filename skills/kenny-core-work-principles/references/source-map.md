@@ -43,8 +43,8 @@ Everything else is a specialization.
 
 ## Local relationship
 
-- Canonical project: `/Users/kennymccormick/github/kenny-core-work-principles`
-- OpenClaw workspace install: `/Users/kennymccormick/.openclaw/workspace/skills/kenny-core-work-principles`
-- Codex install: `/Users/kennymccormick/.codex/skills/kenny-core-work-principles`
-- Claude Code install: `/Users/kennymccormick/.claude/skills/kenny-core-work-principles`
-- Long-form constitution: `/Users/kennymccormick/.openclaw/workspace/WORK_PRINCIPLES.md`
+- Canonical repo: `~/github/kenny-core-work-principles`
+- OpenClaw workspace install: `~/.openclaw/workspace/skills/kenny-core-work-principles`
+- Codex install: `~/.codex/skills/kenny-core-work-principles`
+- Claude Code install: `~/.claude/skills/kenny-core-work-principles`
+- Long-form constitution: `~/.openclaw/workspace/WORK_PRINCIPLES.md`
